@@ -14,7 +14,7 @@ I also had in mind that being able to know your average bitrate by knowing how m
 For now you don't as it does not work. I plan to make it so that a custom GUI will open for a more user-friendly usage.  
 
 ### > Help ?
-No. I'm working on this already and I don't take commissions. I'm not some engineer or professional and I don't distribute my program for that.
+No. I'm working on this already and I don't take feature submissions. I solely develop this project to meet a personal need. I'm not some engineer or professional and I don't distribute my program for that purpose.
 
 ### > Who ?
 Me.
